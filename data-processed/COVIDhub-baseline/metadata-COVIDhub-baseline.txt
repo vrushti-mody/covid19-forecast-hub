@@ -3,7 +3,7 @@ model_name: baseline
 model_abbr: COVIDhub-baseline
 model_contributors: Evan L. Ray <elray@umass.edu>, Ryan Tibshirani
 website_url: https://covid19forecasthub.org/
-license: "
+license: xxx
 team_model_designation: secondary
 ensemble_of_hub_models: false
 methods: This model is a baseline predictive model.

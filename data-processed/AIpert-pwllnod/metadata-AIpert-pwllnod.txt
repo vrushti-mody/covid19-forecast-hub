@@ -1,6 +1,6 @@
 team_name: AIpert.org team
 model_name: Piecewise Log Linear of Death
-model_abbr: AIpert-pwllnod
+model_abbr- AIpert-pwllnod
 model_contributors: Quoc Tran (Lead - WalmartLabs) <ttquoc@gmail.com>, Huong Huynh (Virtual Power System) <hthuongsc@gmail.com>, Lam Ho (Dalhousie University-Dept. of Maths and Stats) <lam.ho@dal.ca>
 website_url: https://covid19.aipert.org
 repo_url: https://github.com/QuocTran/COVID-19
